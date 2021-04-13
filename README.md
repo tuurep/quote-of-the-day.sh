@@ -13,3 +13,5 @@ Add in `~/.bashrc`:
 ```bash
 alias quote="<path-to-script>/quote-of-the-day.sh"
 ```
+
+![quote](https://i.imgur.com/jmnCHcQ.png)
