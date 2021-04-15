@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 wget -q http://www.brainyquote.com/link/quotebr.js -O - \
     | sed -n 3,4p \
