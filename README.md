@@ -6,12 +6,12 @@ This script includes the author by piping some sed commands for a bit more compl
 
 On the colored version, the output is displayed like in [motivate](https://github.com/mubaris/motivate) (script similar to the `fortune` command).
 
-**Alias example**:
+**Usage example**:
 
-Add in `~/.bashrc`:
+Create a symbolic link to script
 
-```bash
-alias quote="<path-to-script>/quote-of-the-day.sh"
-```
+(If `~/.local/bin` is in `$PATH`):
+
+    ln -s <path-to-script> ~/.local/bin/quote
 
 ![quote](https://i.imgur.com/jmnCHcQ.png)
