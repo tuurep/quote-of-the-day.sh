@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 cyan=$'\e[36m'
 magenta=$'\e[35m'
